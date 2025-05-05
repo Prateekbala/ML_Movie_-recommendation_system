@@ -16,17 +16,6 @@ Whether you're building a movie discovery app or experimenting with recommendati
 
 ---
 
-## Project Structure
-
-.
-├── main.py # FastAPI application
-├── model/
-│ ├── movies_df.pkl # Pickled DataFrame with movie data
-│ └── similarity_matrix.pkl# Pickled similarity matrix
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
-
 ## Requirements
 
 - Python 3.8 or higher
