@@ -6,6 +6,14 @@ Whether you're building a movie discovery app or experimenting with recommendati
 
 ---
 
+## Resources
+
+- [Google Colab Notebook](https://colab.research.google.com/drive/1O8ggT1vwPhG7Uzk_H2fbDvrweO52ANVv?usp=sharing) - Google colab link
+- [Model pkl file ](https://drive.google.com/file/d/1V7tuTITsVt79f1iSBdyiB5nUOKGCFTj7/view?usp=sharing) - Sentence transformer model weights
+- [Similarity_matrix pkl file ](https://drive.google.com/file/d/1ImZNT1MRE5H09VqFhLbQs-c-mEOpyoZp/view?usp=sharing) - Similarity matrix file
+
+---
+
 ## Features
 
 - Traditional movie recommendations using a precomputed similarity matrix.
@@ -24,3 +32,4 @@ Whether you're building a movie discovery app or experimenting with recommendati
 
 ```bash
 pip install -r requirements.txt
+```
